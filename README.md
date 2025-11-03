@@ -148,6 +148,6 @@ This frontend needs a **Spring Boot backend** running on port 8080.
 
 ## Need Help?
 
-- **GitHub:** https://github.com/smrefat02/Ecommerce-Frontend-part
+- **GitHub:** https://github.com/smrefat02
 - **Email:** s.m.refat03@gmail.com
 
